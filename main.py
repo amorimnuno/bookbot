@@ -17,7 +17,7 @@ def main():
     print("--- End report ---")
 
 
-##help
+##help.
 def get_num_words(text):
     words = text.split()
     return len(words)
